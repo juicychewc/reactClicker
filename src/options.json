@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "blueBlue",
+    "image": "./assets/images/blueblue.jpg"
+  },
+  {
+    "id": 2,
+    "name": "blueRed",
+    "image": "./assets/images/bluered.jpg"
+  },
+  {
+    "id": 3,
+    "name": "greenGreen",
+    "image": "./assets/images/greenGreen.jpg"
+  },
+  {
+    "id": 4,
+    "name": "greenOrange",
+    "image": "./assets/images/greenOrange.jpg"
+  },
+  {
+    "id": 5,
+    "name": "greenPurple",
+    "image": "./assets/images/greenpurple.jpg"
+  },
+  {
+    "id": 6,
+    "name": "orangeGreen",
+    "image": "./assets/images/orangegreen.jpg"
+  },
+  {
+    "id": 7,
+    "name": "orangeRed",
+    "image": "./assets/images/orangered.jpg"
+  },
+  {
+    "id": 8,
+    "name": "purpleGreen",
+    "image": "./assets/images/purpleGreen.jpg"
+  },
+  {
+    "id": 9,
+    "name": "purpleOrange",
+    "image": "./assets/images/purpleorange.jpg"
+  },
+  {
+    "id": 10,
+    "name": "redBlue",
+    "image": "./assets/images/redblue.jpg"
+  },
+  {
+    "id": 11,
+    "name": "redPurple",
+    "image": "./assets/images/redpurple.jpg"
+  },
+  {
+    "id": 12,
+    "name": "redRed",
+    "image": "./assets/images/redred.jpg"
+  }
+]

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/clickyReact/precache-manifest.6a0cb823b71802c56e9a927b0fb558a8.js"
+  "/reactClicker/precache-manifest.4cdc557a0b106fdb50a59f2b93cab00d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/clickyReact/index.html", {
+workbox.routing.registerNavigationRoute("/reactClicker/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
